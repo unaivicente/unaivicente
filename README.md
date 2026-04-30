@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unaivicente
-- 👀 I’ve worked in theoretical and computational neuroscience
+- 👀 I’ve worked in theoretical and computational neuroscience and done lots of different things in Statistics and Data Science
 - 🌱 I’ve worked and researched in ai and deeplearning
 - 💞️ I’m looking for a challenge.
 - 📫 You can easily reach me via LinkedIn www.linkedin.com/in/unaivicente
